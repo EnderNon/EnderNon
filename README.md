@@ -4,7 +4,7 @@
 <h4> ...on the off chance.</h4>
 <h5> ...perhaps once a month.</h5>
 <h6> ok i do it whenever anime game company updates their game</h6>
-<h6>oh yeah also check out my other git place at [git.endernon.com](https://git.endernon.com)</h6>
+<h6>oh yeah also check out my other git place at [git.endernon.com](https://git.endernon.com).</h6>
 
 <!--### Hi there 👋-->
 
