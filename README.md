@@ -4,7 +4,8 @@
 <h4> ...on the off chance.</h4>
 <h5> ...perhaps once a month.</h5>
 <h6> ok i do it whenever anime game company updates their game</h6>
-oh yeah also check out my other git place at [git.endernon.com](https://git.endernon.com). stuffs private tho
+oh yeah also check out my other git place at [git.endernon.com](https://git.endernon.com). 
+most of my stuff here and on my forgejo instance is private, if you're looking for something just dm me on discord @hornyverse
 
 <!--### Hi there 👋-->
 
