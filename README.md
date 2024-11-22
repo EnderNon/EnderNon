@@ -1,9 +1,9 @@
-<h1> ok so basically i reverse engineer stuff</h1>
+<h1> ok so basically i make cheats for games and stuff</h1>
 <h2> a lot of the time</h2>
 <h3> maybe.</h3>
 <h4> ...on the off chance.</h4>
 <h5> ...perhaps once a month.</h5>
-<h6> ok i do it whenever anime game company updates their game</h6>
+<h6> ok i do it whenever minced raft game server updates their game</h6>
 oh yeah also check out my other git place at [git.endernon.com](https://git.endernon.com). 
 most of my stuff here and on my forgejo instance is private, if you're looking for something just dm me on discord @hornyverse
 
