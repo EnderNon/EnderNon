@@ -5,7 +5,7 @@
 <h5> ...perhaps once a month.</h5>
 <h6> ok i do it whenever minced raft game server updates their game</h6>
 oh yeah also check out my other git place at [git.endernon.com](https://git.endernon.com). 
-most of my stuff here and on my forgejo instance is private, if you're looking for something just dm me on discord @hornyverse
+most of my stuff here and on my forgejo instance is private, if you're looking for something just dm me on discord @endernon
 
 <!--### Hi there 👋-->
 
