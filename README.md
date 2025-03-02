@@ -1,4 +1,4 @@
-<h1> ok so basically i make cheats for games and stuff</h1>
+<h1> ok so basically i do a lot of stuff </h1>
 <h2> a lot of the time</h2>
 <h3> maybe.</h3>
 <h4> ...on the off chance.</h4>
