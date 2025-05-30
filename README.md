@@ -1,10 +1,4 @@
-<h1> ok so basically i do a lot of stuff </h1>
-<h2> a lot of the time</h2>
-<h3> maybe.</h3>
-<h4> ...on the off chance.</h4>
-<h5> ...perhaps once a month.</h5>
-<h6> ok i do it whenever minced raft game server updates their game</h6>
-oh yeah also check out my other git place at https://git.frfrnocap.men/endernon/ .
+check out my other git place at https://git.frfrnocap.men/endernon/ .
 
 most of my stuff here and on my forgejo instance is private, if you're looking for something just dm me on discord @endernon
 
