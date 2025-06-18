@@ -1,6 +1,3 @@
-Your IP address is:  
-![smh](https://real.frfrnocap.men/ip.png)
-
 check out my other git place at https://git.frfrnocap.men/endernon/ .
 
 most of my stuff here and on my forgejo instance is private, if you're looking for something just dm me on discord @endernon
